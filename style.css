@@ -1,0 +1,28 @@
+.movie_head{
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    width: 100%;
+    display: inline-block;
+}
+.movie_head i{
+    float: right;
+}
+.movie_text span{
+    color: gold;
+}
+.en_li{
+    margin-top: 13px;
+}
+.en_li h4{
+    border-bottom: 1px solid white;
+    padding: 8px;
+}
+.en_li img{
+    border-radius: 25px;
+}
+.en_li p{
+    font-size: 20px;
+    margin-top: 10px;
+}
